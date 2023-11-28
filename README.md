@@ -2,6 +2,8 @@
 
 Repository for the `GitHub Fundamentals` training.
 
+Trainer: @spindev, @m4s-b3n
+
 ## 👉 Objectives
 
 - Learning to __navigate GitHub__ and know the most important features (including shortcuts and search)
