@@ -2,7 +2,7 @@
 
 Repository for the `GitHub Fundamentals` training.
 
-Trainer: https://github.com/spindev, https://github.com/m4s-b3n
+Trainer: [spindev](https://github.com/spindev), [m4s-b3n](https://github.com/m4s-b3n)
 
 ## 👉 Objectives
 
