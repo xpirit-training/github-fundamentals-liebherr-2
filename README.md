@@ -1,4 +1,4 @@
-# GitHub Fundamentals Liebherr!
+# GitHub Fundamentals Liebherr Gruppe 2!
 
 Repository for the `GitHub Fundamentals` training.
 
